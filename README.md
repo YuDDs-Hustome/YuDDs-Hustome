@@ -7,7 +7,5 @@ Hey everyone, I'm YuDDs Hustome.<br>
 I'm an engineer working with robots, control signals,... for automatic missions.<br>
 Beside, I'm a programmer too and good at: Python, C/C++ for machine learning, image (2D & 3D) processing and embedded system.
 # Progamming languages statistics
-<img
-  src="https://github.com/YuDDs-Hustome/YuDDs-Hustome/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
