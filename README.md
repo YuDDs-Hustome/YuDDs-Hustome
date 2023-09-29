@@ -6,7 +6,6 @@ Hey everyone, I'm YuDDs Hustome.<br>
 
 I'm an engineer working with robots, control signals,... for automatic missions.<br>
 Beside, I'm a programmer too and good at: Python, C/C++ for machine learning, image (2D & 3D) processing and embedded system.
-# Experience
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+# Progamming languages statistics
+<figure><embed src="https://wakatime.com/share/@958542a3-dfbb-4e06-a16e-670735b57031/cc2a9eb0-18a1-4233-88ee-a71746190d6a.svg"></embed></figure>
 
